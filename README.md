@@ -1,1 +1,7 @@
 # etl
+
+Copy & jobs
+
+## settings
+
+
