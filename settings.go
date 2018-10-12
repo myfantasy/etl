@@ -40,7 +40,6 @@ func loadSettings() (s settings) {
 		fmt.Println("loglevel:", *s.logLevel)
 		fmt.Println("port:", *s.httpPort)
 		fmt.Println("fn:", *s.file)
-		return
 	}
 	return s
 }
